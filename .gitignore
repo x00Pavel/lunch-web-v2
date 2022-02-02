@@ -190,7 +190,6 @@ pip-selfcheck.json
 .ionide
 *.sql*
 */.env
-alembic*
 .vscode*
 docker*
 .coverage*
